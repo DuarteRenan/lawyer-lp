@@ -63,7 +63,7 @@
   font-size: 62.5%;
 }
 
-/* @media (prefers-color-scheme:dark) {
+@media (prefers-color-scheme:dark) {
 
     :root {
       --clr-text: hsl(198, 78%, 91%);
@@ -89,7 +89,7 @@
     .social-icons svg{
       fill:#ffffff;
     }
-} */
+}
   
   
 html,
